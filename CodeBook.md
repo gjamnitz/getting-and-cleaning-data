@@ -1,14 +1,14 @@
 
 ### ID fields
 * subject
-** An identifier of the subject who carried out the experiment
+  * An identifier of the subject who carried out the experiment
 * activity
-** WALKING
-** WALKING_UPSTAIRS
-** WALKING_DOWNSTAIRS
-** SITTING
-** STANDING
-** LAYING
+  * WALKING
+  * WALKING_UPSTAIRS
+  * WALKING_DOWNSTAIRS
+  * SITTING
+  * STANDING
+  * LAYING
 
 ### Calculated fields
 * tBodyAcc.mean.X
